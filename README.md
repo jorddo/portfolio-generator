@@ -16,8 +16,8 @@ This is a project to help you generate a portfolio website. It takes input from 
 
 ## Installation
 
-Clone repo to your local machine
-Install npm by typing: 'npm install' into git bash
+1. Clone repo to your local machine
+2. `cd` into the repository and run `npm install`
 
 ## Usage
 
